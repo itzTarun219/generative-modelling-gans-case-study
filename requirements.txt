@@ -1,0 +1,16 @@
+torch
+torchvision
+torchaudio
+
+numpy
+pandas
+matplotlib
+
+scikit-learn
+tqdm
+pillow
+
+medmnist
+
+torchmetrics
+torch-fidelity
